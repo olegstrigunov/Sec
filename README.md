@@ -64,3 +64,13 @@ https://www.exploit-db.com/exploits/30020
 - Как отвечает сервер?
 
 *Приведите ответ в свободной форме.
+
+Ответ:
+
+![Скриншот-2](https://github.com/olegstrigunov/Sec/blob/main/screanshots/2.png)
+
+![Скриншот-3](https://github.com/olegstrigunov/Sec/blob/main/screanshots/3.png)
+
+![Скриншот-4](https://github.com/olegstrigunov/Sec/blob/main/screanshots/4.png)
+
+![Скриншот-5](https://github.com/olegstrigunov/Sec/blob/main/screanshots/5.png)
