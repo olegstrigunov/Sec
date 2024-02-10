@@ -38,6 +38,14 @@
   
 *Приведите ответ в свободной форме.*  
 
+
+Ответ:
+Разрешены следующие службы: ftp, ssh, telnet, smtp, domain, http, rpcbind, netbios-ssn, exec, login, tcpwrapped, java-rmi, bindshell, nfs, ftp, mysql, postgresql, vnc, X11, irc, ajp13, http
+
+Уязвимости:
+https://www.exploit-db.com/exploits/17491
+https://www.exploit-db.com/exploits/6122
+https://www.exploit-db.com/exploits/30020
 ### Задание 2
 
 Проведите сканирование Metasploitable в режимах SYN, FIN, Xmas, UDP.
