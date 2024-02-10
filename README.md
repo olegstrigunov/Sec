@@ -41,6 +41,8 @@
 
 Ответ:
 
+![Скриншот-1](https://github.com/olegstrigunov/Sec/blob/main/screanshots/1.png)
+
 Разрешены следующие службы: ftp, ssh, telnet, smtp, domain, http, rpcbind, netbios-ssn, exec, login, tcpwrapped, java-rmi, bindshell, nfs, ftp, mysql, postgresql, vnc, X11, irc, ajp13, http
 
 Уязвимости:
