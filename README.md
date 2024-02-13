@@ -26,6 +26,11 @@
 
 *В качестве ответа  пришлите снимки экрана домашнего каталога пользователя с исходными и зашифрованными данными.*  
 
+Ответ:
+
+![Скриншот-1](https://github.com/olegstrigunov/Sec/blob/main/screanshots/11.png)
+
+
 ### Задание 2
 
 1. Установите поддержку **LUKS**.
@@ -34,6 +39,17 @@
 
 *В качестве ответа пришлите снимки экрана с поэтапным выполнением задания.*
 
+Ответ:
+
+![Скриншот-2](https://github.com/olegstrigunov/Sec/blob/main/screanshots/12.png)
+
+![Скриншот-3](https://github.com/olegstrigunov/Sec/blob/main/screanshots/13.png)
+
+![Скриншот-4](https://github.com/olegstrigunov/Sec/blob/main/screanshots/14.png)
+
+![Скриншот-5](https://github.com/olegstrigunov/Sec/blob/main/screanshots/15.png)
+
+![Скриншот-6](https://github.com/olegstrigunov/Sec/blob/main/screanshots/16.png)
 
 ## Дополнительные задания (со звёздочкой*)
 
